@@ -17,3 +17,11 @@
 2. Google AutoComplete API를 full Screen말고 Top에 붙여진걸로 바꿈. 더 이쁨. 잘바꾼듯. API꼼꼼히 읽고 쓰자. 역시 갓구글<br>
 
 <hr/>
+
+
+20200604 목요일 더움 습함.
+--------------------------
+1. Google Place AutoComplete 에서 장소 검색 후 Naver Map Camera Move 기능 구현함. <br>
+2. 문서를 잘 읽고 Demo들 소스 보면서 어떻게 구현했는지 보면 더 쉽게 접근가능. 자세히 보자. <br>
+
+<hr/>
