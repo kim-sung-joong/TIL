@@ -41,3 +41,10 @@
 1. Firebase iOS 연동하려고 API 읽어봄. <br>
 
 <hr/>
+
+20200609 화요일 더움.
+--------------------------
+1. Firebase Auth를 이용해 회원가입 구현함. <br>
+2. Firebase Database를 연결해 user를 추가함. <br>
+
+<hr/>
